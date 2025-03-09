@@ -28,7 +28,7 @@ Although we do not faciliate the relay of notification data for syncing, your de
 
 ## 2. Data Security
 
-We cannot see, modify or change any notification data that is to be synced.
+We cannot see, modify or change any notification data.
 
 ## 3. Crashlytics
 
