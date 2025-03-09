@@ -12,23 +12,23 @@ We don't sell data - We don't track you
 
 By using Sethway, you are able to sync notifications across your devices. We do not collect, store, or share any of this data.
 
-### 1.1 Sync feature
+#### **1.1 No Personal Data Collection**
 
 The notification sync feature - which is the app's primary functionality does not entirely depend on any of our infrastructure to operate.
 
-A peer-to-peer (device-to-device) mechanism is used to sync notification data. This data never reaches any external server. This data is only available to you and your connected devices.
+A peer-to-peer (device-to-device) mechanism is used to sync notification data. This data never reaches us or any external server. This data is only available to you and your connected devices.
 
-### 1.2 Device Discovery feature
+#### **1.2 No User Input is Collected**
+
+Any data you manually input into Sethway, whether by picking a QR code image or scanning a QR code, is not collected.
+
+## Sync feature
 
 Although we do not faciliate the relay of notification data for syncing, your device may occasionally connect to our servers to discover it's peers.
 
-Thus naturally, your IP address may be logged on our server.
-
 ## 2. Data Security
 
-By design, we do not have access to your notification data. This is only available to you and your connected devices.
-
-We cannot see, modify or change this notification data.
+We cannot see, modify or change any notification data that is to be synced.
 
 ## 3. Crashlytics
 
