@@ -40,7 +40,11 @@ We use [Sentry](sentry.io) as our crash reporting provider to help improve the s
 
 It does not include any personal information.
 
-## 4. Contact Us
+## 4. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or technical requirements. Continued use of Sethway after such changes constitutes your acceptance of the new terms. 
+
+## 5. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or Sethway, please contact us at: 
 
