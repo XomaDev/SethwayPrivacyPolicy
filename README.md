@@ -26,7 +26,7 @@ Any data you manually input into Sethway, whether by picking a QR code image or 
 
 Although we do not faciliate the relay of notification data for syncing, your device may occasionally connect to our servers to discover it's peers.
 
-During this process, a unique random UUID of the App will be temporarily stored on our server for a short amount of time. This UUID cannot be linked to any specific individual. This UUID is not shared.
+During this process, a UUID (version 7) of the App will be temporarily stored on our server for a short amount of time. This UUID cannot be linked to any specific individual. This UUID is not shared.
 
 ## 2. Data Security
 
