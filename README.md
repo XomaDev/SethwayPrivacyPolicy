@@ -30,7 +30,7 @@ During this process, a unique random UUID of the App will be temporarily stored 
 
 ## 2. Data Security
 
-We cannot see, modify or change any notification data.
+We cannot see, modify or change any of your personal data.
 
 ## 3. Crashlytics
 
